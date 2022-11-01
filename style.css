@@ -23,17 +23,16 @@ nav{
     object-fit: contain;
     cursor: pointer;
     position: relative;
-    /* top: 30px; */
    
 }
 .profile__img{
-    /* display: grid; */
     justify-content: center;
     align-items: center;
     position: relative;
-    /* top: 10px; */
     text-align: center;
     cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
 }
 .profile__img img{
     width: 50px;
