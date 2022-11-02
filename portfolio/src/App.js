@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import shareButton from './image/Avatar share.png'
+import shareButton from './image/Avatar share button.png'
 import profileImage from './image/profile__img.png'
 import footerImage  from './image/Footer.png'
 function App() {
